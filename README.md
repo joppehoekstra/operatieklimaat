@@ -14,7 +14,7 @@ npm install
 quasar dev
 ```
 
-Make sure to run Directus locally too using Docker.
+Make sure to [run Directus locally](https://docs.directus.io/getting-started/quickstart.html) using Docker. Set up your data model in Directus using [Hoppscotch](https://docs.directus.io/guides/migration/hoppscotch.html) and the contents of ```database-schema.json```.
 
 
 ### Lint the files
